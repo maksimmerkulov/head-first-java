@@ -12,5 +12,6 @@
 - 📂 Решения в папке: `chapter01`
 - 📄 Упражнения из книги:
     - Стр. 39 — создание класса с методом main
+    - Стр. 42 — пример цикла while
 
 ![Chapter 1](https://github.com/user-attachments/assets/7533dfdb-bb0a-4eb9-96e3-ba3e68f2a443)
