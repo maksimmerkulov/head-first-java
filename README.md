@@ -6,3 +6,11 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ![Cover](https://github.com/user-attachments/assets/09385d91-2faf-446b-a856-8de16996b616)
+---
+## 📘 Глава 1. Погружаемся
+
+- 📂 Решения в папке: `chapter01`
+- 📄 Упражнения из книги:
+    - Стр. 39 — создание класса с методом main
+
+![Chapter 1](https://github.com/user-attachments/assets/a1dbfa13-ec83-47cb-9c39-9796de42dbb0)
