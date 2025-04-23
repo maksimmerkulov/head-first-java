@@ -14,5 +14,6 @@
     - Стр. 39 — создание класса с методом main
     - Стр. 42 — пример цикла while
     - Стр. 43 — условное ветвление
+    - Стр. 43 — наточите свой карандаш
 
 ![Chapter 1](https://github.com/user-attachments/assets/a1dbfa13-ec83-47cb-9c39-9796de42dbb0)
