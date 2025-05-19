@@ -5,5 +5,6 @@ public class ReRef {
 
     public void go() {
         d = new Duck();
+        d = null;
     }
 }
